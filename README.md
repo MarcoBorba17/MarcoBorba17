@@ -9,4 +9,5 @@
 ### [X] EXCELL
 ### [X] PYTHON
 ### [X] POWER BI 
+### [X] IA GENERATIVAS
 
