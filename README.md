@@ -1,17 +1,25 @@
-# Marco Borba
-## Estudante de Ciências de Dados - Univesp :computer:
-## Analista de Desenvolvimento de Sistemas na SOLINFTEC
-## Segmentação de Imagens para IA
-## Desenvolvimento Tecnológico 
- ### Tenho 43 anos, em transição de carreira da área Administrativa para a Tecnologia da Informação, buscando conhecimentos na área, desenvolver habilidades e capacidades
- ### Principais Hobbies: 
- Tutor de Pássaros **Calopsitas** 
- **Jogos Eletrônicos** **Filmes e Séries de ficção científica**
- 
-## Linguagens conhecidas
-### [X] EXCELL
-### [X] PYTHON
-### [X] POWER BI 
-### [X] IA GENERATIVAS
-### [X] JAVA
+## Marco Borba
+**Estudante de Ciência de Dados | Engenheiro de Prompts | Especialista em Visão Computacional**
+
+**Sobre**
+
+Estudante de Ciência de Dados pela UNIVESP com previsão de conclusão em junho de 2026. Possui experiência em desenvolvimento de soluções de visão computacional para o agronegócio, atuando na Solinftec. Atualmente, estou focado em aprimorar minhas habilidades em machine learning e deep learning para aplicar em projetos inovadores.
+
+**Habilidades**
+
+* **Linguagens:** Python, Java, C#
+* **Ferramentas:** Excel avançado, Power BI, Git, Frameworks, etc.
+* **Áreas de interesse:** Visão Computacional, Machine Learning, Deep Learning, Engenharia de Prompts
+
+**Projetos**
+
+* **Robô Agrícola:** Desenvolvimento de um sistema de visão computacional para identificação de plantas e pragas em tempo real.
+* **Análise de Sentimentos:** Criação de um modelo de machine learning para analisar a opinião de clientes sobre produtos.
+
+**Contato**
+
+* LinkedIn: [https://www.linkedin.com/in/borbamarco/]
+* E-mail: [marcoborba@msn.com]
+
+
 
