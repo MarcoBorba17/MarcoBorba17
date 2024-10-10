@@ -18,8 +18,8 @@ Estudante de Ciência de Dados pela UNIVESP com previsão de conclusão em junho
 
 **Contato**
 
-* LinkedIn: [https://www.linkedin.com/in/borbamarco/]
-* E-mail: [marcoborba@msn.com]
+* LinkedIn: https://www.linkedin.com/in/borbamarco/
+* E-mail: marcoborba@msn.com
 
 
 
